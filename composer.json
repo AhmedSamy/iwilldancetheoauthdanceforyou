@@ -1,0 +1,12 @@
+{
+    "name": "ahmedgaber/iwilldancetheoauthdanceforyou",
+    "require": {
+        "symfony/webpack-encore-bundle": "^1.7"
+    },
+    "authors": [
+        {
+            "name": "Ahmed",
+            "email": "ahmed.samy.cs@gmail.com"
+        }
+    ]
+}
